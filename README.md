@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### Olá, Prazer!! Meu nome é Israel Cordeiro, Bem Vind(e)s!!!! Sou estudante de Desenvolvimento ![programador (1)](https://user-images.githubusercontent.com/85313042/134516588-6057fc1c-c015-435a-a279-8843b997f8ef.png) 🏳️‍🌈
 
-https://www.linkedin.com/in/israel-cordeiro/
+https://www.linkedin.com/feed/
 
  👨🏻‍💻 Estudante na Labenu;
  
