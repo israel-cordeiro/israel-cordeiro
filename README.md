@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 
 
 
- 📫 How to reach me: israelCordeiro@hotmail.com 
+ 📫 Meu e-mail: israelCordeiro@hotmail.com 
