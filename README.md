@@ -15,9 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi, I'm Israel Cordeiro,I'm a development student 
-
-![programador (1)](https://user-images.githubusercontent.com/85313042/134516272-00479aef-2508-4227-9308-efc57391238c.png)
+### Hi, I'm Israel Cordeiro,I'm a development student ![programador (1)]
 
 
 
