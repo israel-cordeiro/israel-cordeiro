@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 
  👨🏻‍💻 Estudante na Labenu;
  
+ 💬 Me pergunte sobre qualquer coisa, estou sempre pronto para uma conversa;
+ 
  📫 Meu e-mail: israelCordeiro@hotmail.com;
  
  
