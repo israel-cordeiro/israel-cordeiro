@@ -23,7 +23,8 @@ Here are some ideas to get you started:
  
  
  ## Linguagens:
-(https://user-images.githubusercontent.com/85313042/134521214-042defe6-c22e-4303-9b7d-be391ce2f069.png)
+![html-5](https://user-images.githubusercontent.com/85313042/134521289-dea783e6-d227-4f5e-a173-22a224b112a3.png)
+
 
  
  
