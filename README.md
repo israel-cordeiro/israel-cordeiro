@@ -25,6 +25,8 @@ Here are some ideas to get you started:
  
  📫 Meu e-mail: israelcordeiro@hotmail.com;
  
+![linkedin](https://user-images.githubusercontent.com/85313042/134530663-3afa7ad4-f463-41d5-887a-9777d26002c4.png)
+
  
  ## Linguagens:
 
