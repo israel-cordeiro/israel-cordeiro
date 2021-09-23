@@ -15,9 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi, I'm Israel Cordeiro,I'm a development student x-special/nautilus-clipboard
+### Hi, I'm Israel Cordeiro,I'm a development student 
 
-![programador](https://user-images.githubusercontent.com/85313042/134516050-a334c308-358e-4449-ae10-e1c7b26ed22b.png)
+![programador (1)](https://user-images.githubusercontent.com/85313042/134516272-00479aef-2508-4227-9308-efc57391238c.png)
+
+
+
 
 
 
