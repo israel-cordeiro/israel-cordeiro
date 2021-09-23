@@ -23,7 +23,7 @@ Here are some ideas to get you started:
  
  💬 Me pergunte sobre qualquer coisa, estou sempre pronto para uma conversa;
  
- 📫 Meu e-mail: israelCordeiro@hotmail.com;
+ 📫 Meu e-mail: israelcordeiro@hotmail.com;
  
  
  ## Linguagens:
